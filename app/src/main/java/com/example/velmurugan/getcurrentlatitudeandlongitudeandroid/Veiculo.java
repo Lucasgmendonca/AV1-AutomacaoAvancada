@@ -5,7 +5,7 @@ import java.util.List;
 /**
  * Classe que representa um veículo.
  */
-class Veiculo extends Thread {
+public class Veiculo {
     private final GpsTracker gpsTracker;
     private boolean verificaTrocaLocalizacao;
     private double velocidadeMediaParcial;

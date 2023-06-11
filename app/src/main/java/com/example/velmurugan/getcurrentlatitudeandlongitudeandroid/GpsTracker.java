@@ -20,7 +20,7 @@ import java.util.List;
 /**
  * Classe responsável por rastrear a localização GPS.
  */
-class GpsTracker extends Thread implements LocationListener {
+class GpsTracker implements LocationListener {
     private final Context mContext;
     private List<LocationData> LocationDataList; // Lista para armazenar as coordenadas
 
