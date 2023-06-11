@@ -99,7 +99,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Tempo Para Chegar ao Destino Final"
+        android:text="Tempo Para Chegar ao Destino Final (s)"
         android:textSize="16sp"
         android:textStyle="bold"
         android:layout_marginTop="4dp"
@@ -118,7 +118,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Velocidade Recomendada"
+        android:text="Velocidade Recomendada (km/h)"
         android:textSize="16sp"
         android:textStyle="bold"
         android:layout_marginTop="4dp"
@@ -137,7 +137,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Velocidade Entre os 2 Últimos Pontos de Medição"
+        android:text="Velocidade Entre os 2 Últimos Pontos de Medição (km/h)"
         android:textSize="16sp"
         android:textStyle="bold"
         android:layout_marginTop="4dp"
@@ -156,7 +156,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Velocidade Média Total"
+        android:text="Velocidade Média Total (km/h)"
         android:textSize="16sp"
         android:textStyle="bold"
         android:layout_marginTop="4dp"
@@ -175,7 +175,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Tempo de Deslocamento"
+        android:text="Tempo de Deslocamento (s)"
         android:textSize="16sp"
         android:textStyle="bold"
         android:layout_marginTop="4dp"
@@ -194,7 +194,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Distância Percorrida"
+        android:text="Distância Percorrida (km)"
         android:textSize="16sp"
         android:textStyle="bold"
         android:layout_marginTop="4dp"
@@ -213,7 +213,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Consumo de Combustível Total"
+        android:text="Consumo de Combustível Total (litros)"
         android:textSize="16sp"
         android:textStyle="bold"
         android:layout_marginTop="4dp"
